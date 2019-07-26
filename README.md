@@ -1,4 +1,4 @@
-# Adding new Icons to Visual Composer
+# Adding new Icons to Visual Composer icon picker
 
 Elegant, Linea, Flat, Etline
 
